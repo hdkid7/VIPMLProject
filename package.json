@@ -1,0 +1,25 @@
+{
+  "name": "machine-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "dependencies": {
+    "ml5": "^0.6.0",
+    "p5": "^1.2.0",
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdkid7/ML5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdkid7/ML5/issues"
+  },
+  "homepage": "https://github.com/hdkid7/ML5#readme"
+}
